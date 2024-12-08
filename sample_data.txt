@@ -1,0 +1,19 @@
+food is good 
+food can be eaten
+bread is a type of food
+rice is a type of food
+carbohydrates are a type of food group
+protein is a type of food group
+food can be consumed
+humans consume food
+food consumed by humans
+food eaten by humans
+food is baked
+food baked by the oven
+food heated by the oven
+oven bakes food
+oven heats food
+good food is red
+red food is good
+if food is red then it is good
+if food is good then it is red
