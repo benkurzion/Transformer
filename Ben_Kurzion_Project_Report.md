@@ -15,7 +15,7 @@ $embedvec = embedvec + posvec$
 
 To observe the behavior of positional encoding strategy, I plotted the first 8 positions for a 2D vector $[1,1]$
 
-<img src="https://github.com/cwru-courses/csds497-f24-transformers/blob/main/Project/bxk389/sinusoidal_pe_image.png" alt="drawing" width="400"/>
+<img src="https://github.com/benkurzion/Transformer/blob/main/sinusoidal_pe_image.png" alt="drawing" width="400"/>
 
 As we can see, there is almost no discernable pattern between the different positions. The vector is being stretched, shrunk, and rotated in a very unpredictable way. This behavior would be hard for a machine learning model to generalize as there is no clear pattern. 
 
