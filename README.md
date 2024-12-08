@@ -1,7 +1,7 @@
 ##  How to train a model:
 You will require both my code and my made-up dataset to train a model. Please download the files *sample_data.txt* and *positional_encoding_transformer.py*
 
-In order to train any a model, one must first choose a combination of parameters. I have denoted the hyperparameters I used in parathesis. The options are:
+In order to train any a model, one must first choose a combination of parameters. I have denoted the hyperparameters I used in parentheses. The options are:
 
 - batch_size : positive int (32)
 - sequence_length : positive int (4)
